@@ -63,7 +63,7 @@ The College Enquiry Chatbot project is built using machine learning algorithms. 
 <ol>
 <h3> <li>  <b> Register Page : </b></h3>
      <p align="left"> 
-         <kbd><img src="https://github.com/Candida18/College-Enquiry-Chatbot/blob/main/CRCE%20Bot/Images_ss/register.png" alt="register" /> </kbd>
+         <kbd><img src="https://github.com/akash906537/chatbot/blob/main/register.png" alt="register" /> </kbd>
       </p>
   </li>
   
